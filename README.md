@@ -1,4 +1,6 @@
 #Health Care and Appointment Management App
+
+
 The Health Care and Appointment Management App is a mobile application developed using OutSystems, a low-code development platform. This app aims to streamline the process of managing healthcare appointments for both patients and healthcare providers. With this app, users can easily schedule, view, and manage their appointments, improving efficiency and enhancing the overall patient experience.
 
 Features
